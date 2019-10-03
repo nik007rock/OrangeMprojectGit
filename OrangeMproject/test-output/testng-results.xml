@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="39" started-at="2019-10-03T10:49:52Z" finished-at="2019-10-03T10:49:52Z">
+  <suite name="Suite" duration-ms="51074" started-at="2019-10-03T13:23:56Z" finished-at="2019-10-03T13:24:47Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="39" started-at="2019-10-03T10:49:52Z" finished-at="2019-10-03T10:49:52Z">
-      <class name="demopackage.Demotest">
-        <test-method status="PASS" signature="add()[pri:0, instance:demopackage.Demotest@724af044]" name="add" duration-ms="16" started-at="2019-10-03T16:19:52Z" finished-at="2019-10-03T16:19:52Z">
+    <test name="Test" duration-ms="51074" started-at="2019-10-03T13:23:56Z" finished-at="2019-10-03T13:24:47Z">
+      <class name="driverFactory.AppTest">
+        <test-method status="PASS" signature="kickStart()[pri:0, instance:driverFactory.AppTest@724af044]" name="kickStart" duration-ms="51051" started-at="2019-10-03T18:53:56Z" finished-at="2019-10-03T18:54:47Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- add -->
-      </class> <!-- demopackage.Demotest -->
+        </test-method> <!-- kickStart -->
+      </class> <!-- driverFactory.AppTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

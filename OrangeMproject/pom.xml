@@ -49,7 +49,7 @@
 				<version>2.18.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>H:\Workspace\OrangeMproject\src\main\resources\testng.xml</suiteXmlFile>
+						<suiteXmlFile>C:\Users\Notebook\git\OrangeMprojectGit\OrangeMproject\src\main\resources\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
