@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18248" started-at="2019-10-03T13:42:33Z" finished-at="2019-10-03T13:42:51Z">
+  <suite name="Suite" duration-ms="18536" started-at="2019-10-03T14:05:41Z" finished-at="2019-10-03T14:05:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="18248" started-at="2019-10-03T13:42:33Z" finished-at="2019-10-03T13:42:51Z">
+    <test name="Test" duration-ms="18536" started-at="2019-10-03T14:05:41Z" finished-at="2019-10-03T14:05:59Z">
       <class name="driverFactory.AppTest">
-        <test-method status="PASS" signature="kickStart()[pri:0, instance:driverFactory.AppTest@3cb5cdba]" name="kickStart" duration-ms="18232" started-at="2019-10-03T19:12:33Z" finished-at="2019-10-03T19:12:51Z">
+        <test-method status="PASS" signature="kickStart()[pri:0, instance:driverFactory.AppTest@3cb5cdba]" name="kickStart" duration-ms="18504" started-at="2019-10-03T19:35:41Z" finished-at="2019-10-03T19:35:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- kickStart -->
